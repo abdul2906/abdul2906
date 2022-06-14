@@ -6,4 +6,5 @@ abdul@nixos ~> cat todo
 - [ ] Visual novel game engine
 - [ ] Commercial game
 - [ ] Own window manager
+- [ ] Graphics tablet configuration ui (similar to gnome-settings)
 ```
